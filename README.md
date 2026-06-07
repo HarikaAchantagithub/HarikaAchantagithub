@@ -81,14 +81,6 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 
 ---
 
-## Certifications
-
-- 🤖 **Claude 101** — Anthropic *(April 2026)*
-- ⚡ **Antigravity** — Training Program
-- 🐧 **Linux Certification** — Frontline EduTech
-
----
-
 ## Featured Projects
 
 <div align="center">
@@ -103,12 +95,11 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 
 ---
 
-## ✨ A bit more about me
+## Certifications
 
-- 🎯 I believe a 90% performance score is the **minimum**, not the goal
-- 🧩 I enjoy breaking complex Figma designs into clean, reusable components  
-- 🤝 I've collaborated with backend teams across multiple real-world client products
-- 💡 Currently certified in **Claude AI (Anthropic)** — building with AI is the next frontier
+- 🤖 **Claude 101** — Anthropic *(April 2026)*
+- ⚡ **Antigravity** — Training Program
+- 🐧 **Linux Certification** — Frontline EduTech
 
 ---
 
@@ -125,7 +116,7 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=HarikaAchantagithub&color=1A56DB&style=flat&label=Profile+Views" />
 </p>
 

@@ -33,7 +33,7 @@ I care deeply about performance, clean code, and interfaces that actually feel g
 Currently exploring AI-powered development with **Claude (Anthropic)** and expanding into full-stack.
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -67,7 +67,7 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 <div align="left">
 
@@ -81,7 +81,7 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 
 ---
 
-## 📚 Certifications
+## Certifications
 
 - 🤖 **Claude 101** — Anthropic *(April 2026)*
 - ⚡ **Antigravity** — Training Program
@@ -89,7 +89,7 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -100,18 +100,6 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 | ✨ **Lune Skincare** | React.js · CSS Animations | Interactive UI · Smooth animations · Engagement-focused | [🌐 Live](https://luneskincare.com) |
 | 🍛 **Bisi Bisi** | React.js · Figma | Pixel-perfect from Figma · Reusable components · Unit tested | [🌐 Live](https://bisibisi.in) |
 | 💳 **Payment Gateway UI** | JavaScript · REST API | Secure transactions · Multi-provider integration · Scalable architecture | [💻 GitHub](https://github.com/HarikaAchantagithub/payment-gateway-ui) |
-| ❓ **FAQ App** | TypeScript | Dynamic FAQ management · Searchable · Categorized | [💻 GitHub](https://github.com/HarikaAchantagithub/faq) |
-
-</div>
-## 📫 Connect With Me
-
-<div align="left">
-
-[![Email](https://img.shields.io/badge/harikaachanta9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harikaachanta9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Achanta_Harika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achanta-harika)
-[![GitHub](https://img.shields.io/badge/HarikaAchantagithub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarikaAchantagithub)
-
-</div>
 
 ---
 
@@ -124,19 +112,16 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 
 ---
 
-## 📬 Let's connect
+</div>
+## Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/harika">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/HarikaAchantagithub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:harikaachanta9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="left">
+
+[![Email](https://img.shields.io/badge/harikaachanta9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harikaachanta9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Achanta_Harika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achanta-harika)
+[![GitHub](https://img.shields.io/badge/HarikaAchantagithub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarikaAchantagithub)
+
+</div>
 
 ---
 

@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harika+%F0%9F%91%8B;Frontend+Developer+%7C+React+Specialist;Pixel-perfect+UIs+%7C+Clean+Code;Based+in+Hyderabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Achanta%20Harika&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+React+Specialist+%E2%9A%9B%EF%B8%8F;Pixel-perfect+UIs+%7C+Clean+Code+%E2%9C%A8;3%2B+Years+of+Production+React+Apps+%F0%9F%9A%80;Based+in+Hyderabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
 <br/>
 
-> Frontend Developer from India. Pixel-perfect UIs by day, Figma files by night.
+> 👋 Hi, I'm Harika — Frontend Developer from India. Pixel-perfect UIs by day, Figma files by night.
 
 ---
 

@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-> Frontend Developer from India. Pixel-perfect UIs by day, Figma files by night.
-
 ---
 
 ## 🙋‍♀️ About Me
@@ -69,30 +67,60 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarikaAchantagithub&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarikaAchantagithub&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HarikaAchantagithub&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarikaAchantagithub&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
-</p>
+| Project | Tech | Highlights |
+|--------|------|------------|
+| 🍽️ **[Ishq Veg](https://ishqveg.com)** | React.js, Next.js | 90% performance optimization, SEO-friendly, fully responsive |
+| 💳 **[Payment Gateway UI](https://github.com/HarikaAchantagithub)** | JavaScript | Secure transactions, multi-provider API integration |
+| 🍬 **[Sreemahalakshmi Sweets](https://shreemahalakshmisweets.com)** | React.js | Responsive UI, wishlist & REST API integration |
+| ✨ **[Lune Skincare](https://luneskincare.com)** | React.js | Animations, interactive UI, customer engagement |
+| 🍛 **[Bisi Bisi](https://bisibisi.in)** | React.js | Figma-to-code, reusable components, unit tested |
 
 ---
 
-## 🔭 What I'm up to
+## 📚 Certifications
 
-- 🚀 Building **payment-gateway-ui** — multi-provider payment flows in JavaScript
-- 🌱 Learning **system design** and backend architecture  
-- 🤖 Exploring **AI-assisted development** with Claude (Anthropic)
-- 💬 Ask me about **React, Next.js, Tailwind, or performance optimization**
-- 📍 Based in **Hyderabad, India**
+- 🤖 **Claude 101** — Anthropic *(April 2026)*
+- ⚡ **Antigravity** — Training Program
+- 🐧 **Linux Certification** — Frontline EduTech
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Next.js Advanced](https://img.shields.io/badge/Advanced_Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![AI Web Apps](https://img.shields.io/badge/AI--Powered_Web_Apps-FF6C37?style=for-the-badge&logo=openai&logoColor=white)
+![Full Stack AI](https://img.shields.io/badge/Full_Stack_AI-1A56DB?style=for-the-badge&logo=stackshare&logoColor=white)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/harikaachanta9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harikaachanta9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Achanta_Harika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achanta-harika)
+[![GitHub](https://img.shields.io/badge/HarikaAchantagithub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarikaAchantagithub)
+
+</div>
+
+---
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HarikaAchantagithub/HarikaAchantagithub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 
 ---
 

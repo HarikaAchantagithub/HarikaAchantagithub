@@ -14,15 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=1A56DB&center=true&vCenter=true&width=550&lines=Hi+I'm+Harika+👋;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Based+in+Hyderabad+🇮🇳)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Achanta%20Harika&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=1A56DB&left=true&vLeft=true&width=550&lines=Hi+I'm+Harika+👋;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Based+in+Hyderabad+🇮🇳)](https://git.io/typing-svg)
 
 <br/>
 
----
+> Frontend Developer from India. Pixel-perfect UIs by day, Figma files by night.
+
+<br/>
+
+</div>
+
+&nbsp;
 
 ## 🙋‍♀️ About Me
 
@@ -31,9 +37,9 @@ Hey! I'm a Frontend Developer with **3+ years** of experience building productio
 I care deeply about performance, clean code, and interfaces that actually feel good to use. I don't just build things — I optimize them until they're fast, accessible, and maintainable.
 
 Currently exploring AI-powered development with **Claude (Anthropic)** and expanding into full-stack.
----
+&nbsp;
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -65,11 +71,56 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
----
+&nbsp;
 
-## Currently Learning
+## 📌 Featured Projects
 
-<div align="left">
+| 🚀 Project | 🛠️ Tech Stack | ✨ Highlights | 🔗 Link |
+|:-----------|:--------------|:-------------|:--------|
+| 🍬 **Sreemahalakshmi Sweets** | React.js · REST API | Responsive UI · Wishlist feature · API integration | [🌐 Live](https://www.shreemahalakshmisweets.com) |
+| 🍽️ **Ishq Veg** | React.js · Next.js · REST API | 90% performance boost · SEO-friendly · Fully responsive | [🌐 Live](https://ishqveg.com) |
+| ✨ **Lune Skincare** | React.js · CSS Animations | Interactive UI · Smooth animations · Engagement-focused | [🌐 Live](https://luneskincare.com) |
+| 🍛 **Bisi Bisi** | React.js · Figma | Pixel-perfect from Figma · Reusable components · Unit tested | [🌐 Live](https://bisibisi.in) |
+| 💳 **Payment Gateway UI** | JavaScript · REST API | Secure transactions · Multi-provider integration · Scalable | [💻 GitHub](https://github.com/HarikaAchantagithub/payment-gateway-ui) |
+| ❓ **FAQ App** | TypeScript | Dynamic FAQ · Searchable · Categorized | [💻 GitHub](https://github.com/HarikaAchantagithub/faq) |
+
+&nbsp;
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarikaAchantagithub&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&bg_color=00000000" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarikaAchantagithub&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" width="48%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=HarikaAchantagithub&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000" width="60%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HarikaAchantagithub&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
+
+&nbsp;
+
+## 🔭 What I'm up to
+
+- 🚀 Building **payment-gateway-ui** — multi-provider payment flows in JavaScript
+- 🌱 Learning **system design** and backend architecture
+- 🤖 Exploring **AI-assisted development** with Claude (Anthropic)
+- 💬 Ask me about **React, Next.js, Tailwind, or performance optimization**
+- 📍 Based in **Hyderabad, India**
+
+&nbsp;
+
+## ✨ A bit more about me
+
+- 🎯 I believe a 90% performance score is the **minimum**, not the goal
+- 🧩 I enjoy breaking complex Figma designs into clean, reusable components
+- 🤝 Collaborated with backend teams across multiple real-world client products
+- 💡 Certified in **Claude AI (Anthropic)** — building with AI is the next frontier
+
+&nbsp;
+
+## 🌱 Currently Learning
 
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Next.js Advanced](https://img.shields.io/badge/Advanced_Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -77,47 +128,32 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 ![AI Web Apps](https://img.shields.io/badge/AI--Powered_Web_Apps-FF6C37?style=for-the-badge&logo=openai&logoColor=white)
 ![Full Stack AI](https://img.shields.io/badge/Full_Stack_AI-1A56DB?style=for-the-badge&logo=stackshare&logoColor=white)
 
-</div>
+&nbsp;
 
----
-
-## Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 🛠️ Tech Stack | ✨ Highlights | 🔗 Link |
-|-----------|--------------|--------------|---------|
-| 🍬 **Sreemahalakshmi Sweets** | React.js · REST API | Responsive UI · Wishlist feature · API integration | [🌐 Live](https://www.shreemahalakshmisweets.com) |
-| 🍽️ **Ishq Veg** | React.js · Next.js · REST API | 90% performance boost · SEO-friendly · Fully responsive | [🌐 Live](https://ishqveg.com) |
-| ✨ **Lune Skincare** | React.js · CSS Animations | Interactive UI · Smooth animations · Engagement-focused | [🌐 Live](https://luneskincare.com) |
-| 🍛 **Bisi Bisi** | React.js · Figma | Pixel-perfect from Figma · Reusable components · Unit tested | [🌐 Live](https://bisibisi.in) |
-| 💳 **Payment Gateway UI** | JavaScript · REST API | Secure transactions · Multi-provider integration · Scalable architecture | [💻 GitHub](https://github.com/HarikaAchantagithub/payment-gateway-ui) |
-
----
-
-## Certifications
+## 📚 Certifications
 
 - 🤖 **Claude 101** — Anthropic *(April 2026)*
 - ⚡ **Antigravity** — Training Program
 - 🐧 **Linux Certification** — Frontline EduTech
 
----
+&nbsp;
 
-</div>
-## Connect With Me
-
-<div align="left">
+## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/harikaachanta9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harikaachanta9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Achanta_Harika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achanta-harika)
 [![GitHub](https://img.shields.io/badge/HarikaAchantagithub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarikaAchantagithub)
 
-</div>
+&nbsp;
 
----
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/HarikaAchantagithub/HarikaAchantagithub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=HarikaAchantagithub&color=1A56DB&style=flat&label=Profile+Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 
-<p align="center"><i>"Build it fast. Make it beautiful. Ship it."</i></p>
+<img src="https://komarev.com/ghpvc/?username=HarikaAchantagithub&color=1A56DB&style=flat&label=Profile+Views" />
+
+<br/>
+
+> *"Build it fast. Make it beautiful. Ship it."*
+> 

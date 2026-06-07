@@ -67,31 +67,9 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 
 ---
 
----
-
-## 📌 Featured Projects
-
-| Project | Tech | Highlights |
-|--------|------|------------|
-| 🍽️ **[Ishq Veg](https://ishqveg.com)** | React.js, Next.js | 90% performance optimization, SEO-friendly, fully responsive |
-| 💳 **[Payment Gateway UI](https://github.com/HarikaAchantagithub)** | JavaScript | Secure transactions, multi-provider API integration |
-| 🍬 **[Sreemahalakshmi Sweets](https://shreemahalakshmisweets.com)** | React.js | Responsive UI, wishlist & REST API integration |
-| ✨ **[Lune Skincare](https://luneskincare.com)** | React.js | Animations, interactive UI, customer engagement |
-| 🍛 **[Bisi Bisi](https://bisibisi.in)** | React.js | Figma-to-code, reusable components, unit tested |
-
----
-
-## 📚 Certifications
-
-- 🤖 **Claude 101** — Anthropic *(April 2026)*
-- ⚡ **Antigravity** — Training Program
-- 🐧 **Linux Certification** — Frontline EduTech
-
----
-
 ## 🌱 Currently Learning
 
-<div align="center">
+<div align="left">
 
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Next.js Advanced](https://img.shields.io/badge/Advanced_Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -103,24 +81,37 @@ Currently exploring AI-powered development with **Claude (Anthropic)** and expan
 
 ---
 
-## 📫 Connect With Me
+## 📚 Certifications
+
+- 🤖 **Claude 101** — Anthropic *(April 2026)*
+- ⚡ **Antigravity** — Training Program
+- 🐧 **Linux Certification** — Frontline EduTech
+
+---
+
+## 📌 Featured Projects
 
 <div align="center">
+
+| 🚀 Project | 🛠️ Tech Stack | ✨ Highlights | 🔗 Link |
+|-----------|--------------|--------------|---------|
+| 🍬 **Sreemahalakshmi Sweets** | React.js · REST API | Responsive UI · Wishlist feature · API integration | [🌐 Live](https://www.shreemahalakshmisweets.com) |
+| 🍽️ **Ishq Veg** | React.js · Next.js · REST API | 90% performance boost · SEO-friendly · Fully responsive | [🌐 Live](https://ishqveg.com) |
+| ✨ **Lune Skincare** | React.js · CSS Animations | Interactive UI · Smooth animations · Engagement-focused | [🌐 Live](https://luneskincare.com) |
+| 🍛 **Bisi Bisi** | React.js · Figma | Pixel-perfect from Figma · Reusable components · Unit tested | [🌐 Live](https://bisibisi.in) |
+| 💳 **Payment Gateway UI** | JavaScript · REST API | Secure transactions · Multi-provider integration · Scalable architecture | [💻 GitHub](https://github.com/HarikaAchantagithub/payment-gateway-ui) |
+| ❓ **FAQ App** | TypeScript | Dynamic FAQ management · Searchable · Categorized | [💻 GitHub](https://github.com/HarikaAchantagithub/faq) |
+
+</div>
+## 📫 Connect With Me
+
+<div align="left">
 
 [![Email](https://img.shields.io/badge/harikaachanta9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harikaachanta9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Achanta_Harika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achanta-harika)
 [![GitHub](https://img.shields.io/badge/HarikaAchantagithub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarikaAchantagithub)
 
 </div>
-
----
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HarikaAchantagithub/HarikaAchantagithub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 
 ---
 
